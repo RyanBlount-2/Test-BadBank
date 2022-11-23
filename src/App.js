@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          MODIFICATION #:
-         1
+         2
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
